@@ -1,0 +1,35 @@
+body
+{
+	background-image: url();
+	background-repeat: repeat;
+}
+
+body. h1, h3, p
+{
+	font-family: Nunito, Arial, sans-serif;
+}
+
+.container
+{
+	text-align: center;
+	padding-top: 50px;
+
+
+}
+
+hr
+{
+	width: 600px;
+	border-bottom: 1px solid black;
+
+}
+
+.quote-box
+{
+	border-radius: 15px;
+	border: 1px dashed black;
+	padding: 10px;
+	margin-bottom: 15px;
+
+
+}
